@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3781344264
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69de89556da7a65ab9868dfc43d1e63e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Avatar2/Example/Common/Textures/brdf_LUTh16bpp.png
+Dependencies: []
